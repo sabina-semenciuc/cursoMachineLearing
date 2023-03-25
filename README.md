@@ -37,7 +37,8 @@ Data analysis using SQL
 
 ## Day 4 (24.03.2023):
 
-### 01 Prediction by machine learning (LogisticRegression, SVC, DecisionTreeClassifier, KNeighborsClassifier)
+### 01 Prediction by machine learning 
+(LogisticRegression, SVC, DecisionTreeClassifier, KNeighborsClassifier)
 ### 02 Analysis of launch site locations with Folium
 ### 03 Mark all launching sites on a map
 ### 04 Mark on the map the successful/failed launches of each site
