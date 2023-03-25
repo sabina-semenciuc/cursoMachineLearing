@@ -34,3 +34,12 @@ Data analysis using SQL
 ### 03 Scikit library 
 - linear model: LinearRegression
 - neighbors: KNeighborsRegressor
+
+## Day 4 (24.03.2023):
+
+### Prediction by machine learning
+
+### Analysis of launch site locations with Folium
+### Mark all launching sites on a map
+### Mark on the map the successful/failed launches of each site
+### Calculate the distances between a launch site and its vicinity
