@@ -37,9 +37,8 @@ Data analysis using SQL
 
 ## Day 4 (24.03.2023):
 
-### Prediction by machine learning
-
-### Analysis of launch site locations with Folium
-### Mark all launching sites on a map
-### Mark on the map the successful/failed launches of each site
-### Calculate the distances between a launch site and its vicinity
+### 01 Prediction by machine learning (LogisticRegression, SVC, DecisionTreeClassifier, KNeighborsClassifier)
+### 02 Analysis of launch site locations with Folium
+### 03 Mark all launching sites on a map
+### 04 Mark on the map the successful/failed launches of each site
+### 05 Calculate the distances between a launch site and its vicinity
