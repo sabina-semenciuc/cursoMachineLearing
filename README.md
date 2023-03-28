@@ -48,4 +48,5 @@ Data analysis using SQL
 
 ### 01 Data wrangling
 
-### 02 Data processment for simple conclusions(mean, medium, adding new columns, changing column names, grouping)
+### 02 Data processment for simple conclusions
+(mean, medium, adding new columns, changing column names, grouping)
