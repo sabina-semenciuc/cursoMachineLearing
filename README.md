@@ -43,3 +43,9 @@ Data analysis using SQL
 ### 03 Mark all launching sites on a map
 ### 04 Mark on the map the successful/failed launches of each site
 ### 05 Calculate the distances between a launch site and its vicinity
+
+## Day 5 (25.03.2023):
+
+### 01 Data wrangling
+
+### 02 Data processment for simple conclusions(mean, medium, adding new columns, changing column names, grouping)
